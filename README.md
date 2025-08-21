@@ -51,8 +51,8 @@ Original trailer reference: [La Coleccionista](https://www.aullidos.com/noticia/
 ---
 
 ## 📥 Access to Audacity Files  
-The complete Audacity project files can be accessed through the following link:  
-[🔗 Audacity Project Files – OneDrive](https://javerianacaliedu-my.sharepoint.com/:f:/g/personal/sguevaraidarraga_javerianacali_edu_co/EoLOuRE7b-VPj8eXTFcOMgwBeSZhCKfahoLi8iFXnTetLA?e=VlRGPy)  
+- 🎞️ **Edited Trailer (YouTube):** [Watch Here](https://youtu.be/__P7mmJ1qFI)  
+- 🎧 **Audacity Project Files:** [OneDrive Link](https://javerianacaliedu-my.sharepoint.com/:f:/g/personal/sguevaraidarraga_javerianacali_edu_co/EoLOuRE7b-VPj8eXTFcOMgwBeSZhCKfahoLi8iFXnTetLA?e=VlRGPy) 
 
 ---
 
