@@ -3,7 +3,7 @@
 ## 📌 Project Overview  
 This project was developed as part of the *Human-Computer Interaction* course (*Sistemas de Interacción*). The main objective was to reinterpret the official trailer of the upcoming movie **“La Coleccionista”** by modifying its **audio track** while keeping the original video intact.  
 
-Using **Audacity** as the primary tool for audio manipulation, the trailer’s sound design was restructured to transform its original tone and narrative atmosphere. Through the integration of diverse sound editing techniques—such as frequency shifts, time stretching, volume balancing, and layering external audio sources—the final outcome changes the **semantic perception** of the trailer.  
+Using **Audacity** as the primary tool for audio manipulation, the trailer’s sound design was restructured to transform its original tone and narrative atmosphere. Through the integration of diverse sound editing techniques such as frequency shifts, time stretching, volume balancing, and layering external audio sources the final outcome changes the **semantic perception** of the trailer.  
 
 Original trailer reference: [La Coleccionista](https://www.aullidos.com/noticia/42155/la-coleccionista-trailer-oficial-fecha-estreno/)  
 
